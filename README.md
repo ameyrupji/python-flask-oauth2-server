@@ -24,5 +24,6 @@ http://127.0.0.1:5000/
 
 ## Useful Links
 
+- Sample Client using Authorization Code Grant Flow - https://github.com/ameyrupji/python-flask-oauth2-client
 - https://github.com/authlib/example-oauth2-server
 - https://docs.authlib.org/en/latest/specs/rfc6749.html
